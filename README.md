@@ -55,6 +55,10 @@
 
 若要用 STM32CubeMX 修改配置，打开对应目录下的 `.ioc` 文件即可；重新生成时代码写在 `USER CODE` 区域内的部分会保留。
 
+## 仓库地址
+
+<https://github.com/clzzzs/stm32f103-timer-pwm-lab>
+
 ## 博客
 
 （待填写）
