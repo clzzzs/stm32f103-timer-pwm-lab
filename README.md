@@ -43,9 +43,7 @@
 ├─ code/
 │  ├─ task1/                     任务一：定时器中断控制 LED（CubeMX + Keil 工程）
 │  └─ task2/                     任务二：PWM 呼吸灯（CubeMX + Keil 工程）
-├─ images/                       报告插图（含动图与图片清单）
-├─ report_style.css              PDF 排版样式
-└─ _preview.html                 Markdown → HTML 的中间产物（用于重新生成 PDF）
+└─ images/                       报告插图（22 张图/动图 + 同名 mp4）
 ```
 
 ## 如何编译下载
