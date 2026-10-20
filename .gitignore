@@ -1,0 +1,28 @@
+# Keil MDK / CubeMX 构建产物
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.axf
+*.hex
+*.lst
+*.map
+*.sct
+*.htm
+*.build_log.htm
+*.uvguix.*
+*.bak
+*.old
+
+# Keil 各工程的输出目录（保留 .uvprojx / .uvoptx）
+code/*/MDK-ARM/task1/
+code/*/MDK-ARM/task2/
+
+# 图片备份
+images/_bak_竖版/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
