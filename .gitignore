@@ -26,3 +26,9 @@ images/_bak_竖版/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# 仅供本地使用的辅助文件（不上传 GitHub）
+_preview.html
+report_style.css
+交付说明.md
+images/图片清单.md
